@@ -1,1 +1,1 @@
-test
+A manual merge is when two collaborators are together and merge two separate lines of code.
